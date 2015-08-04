@@ -1,7 +1,7 @@
 GDBM sample application
 =======================
 
-Simple application to demonstrate basic GDBM functions. It consits from:
+Simple C application to demonstrate basic GDBM functions (GDBM is simple key/value store). It consits from:
 * gdbm_load - loads words database from stdin
 * gdbm_query - queries specified word from database created by gdbm_load
 
