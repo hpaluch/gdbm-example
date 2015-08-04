@@ -1,0 +1,6 @@
+*.o
+tags
+gdbm_load
+gdbm_query
+*.gdbm
+
